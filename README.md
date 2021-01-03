@@ -1,7 +1,7 @@
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hola!! I am Kavin Jindal a programmer and a discord developer.
 
-:snake:I am currently learning Python CLI and Python GUI
+:snake:I am currently learning Python CLI and Python GUI and advanced discord development
 
 :radio_button: I am working on many fun discord bots and learning advanced discord development in python
 
