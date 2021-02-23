@@ -1,15 +1,11 @@
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hola!! I am Kavin Jindal a programmer and a discord developer.
+Hola!! I am Kavin Jindal a programmer.
 
-:snake:I am currently learning Python CLI and Python GUI and advanced discord development
+:snake:I am currently learning Python CLI, Python GUI and advanced discord development along with Python Django
 
-:radio_button: I am working on many fun discord bots and learning advanced discord development in python
+:radio_button: I am working on many Django Websites
 
-:heavy_multiplication_x: I dont make bots for private servers.
-
-:heavy_check_mark:I make bots for general use. 
-
-:computer:I make utility apps in python which can be of some help to people. 
+:computer:I make utility projects in python which can be of some help to people. 
 
 :heavy_division_sign:Check out my [Equation Writer](https://github.com/kavinjindal/Equation-Writer) made in Python Tkinter which makes it easy to write mathematic equations and symbols
 
@@ -26,4 +22,12 @@ Hola!! I am Kavin Jindal a programmer and a discord developer.
 # Top Applications
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavinjindal&repo=equation-writer)](https://github.com/kavinjindal/Equation-Writer)
+
+# Discord Bots
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavinjindal&repo=Astro-1.3)](https://github.com/kavinjindal/Astro-1.3)
+
+# Websites
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavinjindal&repo=Astro-website)](https://github.com/kavinjindal/Astro-website)
+
