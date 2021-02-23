@@ -26,4 +26,4 @@ Hola!! I am Kavin Jindal a programmer and a discord developer.
 # Top Applications
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavinjindal&repo=equation-writer)](https://github.com/kavinjindal/Equation-Writer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavinjindal&repo=Bruh-Bot)](https://github.com/kavinjindal/Bruh-Bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kavinjindal&repo=Astro-website)](https://github.com/kavinjindal/Astro-website)
