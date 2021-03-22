@@ -1,9 +1,9 @@
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hola!! I am Kavin Jindal a developer and content creator
 
---> ![Youtube Channel](https://www.youtube.com/channel/UCOLX_rpXzmFbojKiiH-RCBA)
+--> [Youtube Channel](https://www.youtube.com/channel/UCOLX_rpXzmFbojKiiH-RCBA)
 
---> ![Website](https://kavinjindal17.wordpress.com/)
+--> [Website](https://kavinjindal17.wordpress.com/)
 
 **I am working on a Social Media website named Friend File. It is developed in Python Django and HTML styled using bootstrap. Its under development.**
 
