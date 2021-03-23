@@ -7,8 +7,7 @@ Hola!! I am Kavin Jindal a developer and content creator
 
 **I am working on a Social Media website named Friend File. It is developed in Python Django and HTML styled using bootstrap. Its under development.**
 
-![Visit Friend File and make your account]('https://bit.ly/2PjD81F')
-
+https://django-template-3.kavinjindal.repl.co/
 
 :snake:I am currently learning Python CLI, Python GUI and advanced discord development along with Python Django
 
