@@ -9,6 +9,8 @@ Hola!! I am Kavin Jindal a developer and content creator
 
 https://django-template-3.kavinjindal.repl.co/
 
+I have worked on many successful Projects like Astro Discord bot, Friend File Social Media app and Equation Writer
+
 :snake:I am currently learning Python CLI, Python GUI and advanced discord development along with Python Django
 
 :radio_button: I am working on many Django Websites
