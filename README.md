@@ -7,6 +7,8 @@ Hola!! I am Kavin Jindal a developer and content creator
 
 **I am working on a Social Media website named Friend File. It is developed in Python Django and HTML styled using bootstrap. Its under development.**
 
+**I am also learning JavaScript and Android Development in Android Studio**
+
 https://django-template-3.kavinjindal.repl.co/
 
 I have worked on many successful Projects like Astro Discord bot, Friend File Social Media app and Equation Writer. 
