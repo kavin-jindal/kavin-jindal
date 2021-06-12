@@ -1,5 +1,5 @@
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hola!! I am Kavin Jindal a developer and content creator
+Hola!! I am Kavin Jindal, a discord and python developer and also a game dev (just started learning)
 
 --> [Youtube Channel](https://www.youtube.com/channel/UCOLX_rpXzmFbojKiiH-RCBA)
 
