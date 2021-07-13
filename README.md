@@ -1,7 +1,5 @@
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a noob python programmer. I like making discord bots and games.
-
 # Contact Me:
 :email: Email ID: kavinsjindal@gmail.com
 :speech_balloon: Discord ID : KJ#7320
