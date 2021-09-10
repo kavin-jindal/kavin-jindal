@@ -5,7 +5,7 @@
 :speech_balloon: Discord ID : KJ#7320
 
 # Github Stats
-![Kavin's github stats](https://github-readme-stats.vercel.app/api?username=kavinjindal&show_icons=true&theme=radical)
+![Kavin's github stats](https://github-readme-stats.vercel.app/api?username=klevrboi&show_icons=true&theme=radical)
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinjindal&layout=demo)](https://github.com/kavinjindal/github-readme-stats)
