@@ -10,6 +10,8 @@
 * 🖥️ Looking for help in: Java/Javascript
 * 😗 I also make discord bots for other servers and you can contact me on my discord ID if you want one for yourself.
 * 🤖 Fun fact: idk tell me what to write here
+* ⌨️ Learning C#/JS/Java and Dart (For flutter development)
+* Will start with learning C soon :)
 
 
 # Contact Me:
