@@ -1,6 +1,6 @@
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-> I am Kavin Jindal,  a 15 yr old aspiring self taught developer. I started programming by learning batch scripting 3 years ago and then in 2020 started learning Python from YouTube.
+> I am Kavin Jindal,  a 15 yr old self taught developer. I started programming by learning batch scripting 3 years ago and then in 2020 started learning Python from YouTube.
 
 > Since then I have worked on loads of projects and have learnt development in various fields. I am fluent in discord development, web development, making desktop applications with GUI and also developing on Linux 
 
