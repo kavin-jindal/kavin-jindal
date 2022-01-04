@@ -7,10 +7,9 @@
 > I am currently learning Java and Javascript and trying out other fields in development.
 
 * 🤗 Pronouns: He/him
-* 🖥️ Looking for help in: Java/Javascript
 * 😗 I also make discord bots for other servers and you can contact me on my discord ID if you want one for yourself.
 * 🤖 Fun fact: idk tell me what to write here
-* ⌨️ Learning C#/JS/Java and Dart (For flutter development)
+* ⌨️ Learning PHP and JS
 * Will start learning C soon :)
 
 
