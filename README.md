@@ -10,7 +10,7 @@
 * 😗 I also make discord bots for other servers and you can contact me on my discord ID if you want one for yourself.
 * 🤖 Fun fact: idk tell me what to write here
 * ⌨️ Learning PHP
-* ⌨️ Skills: Python/PHP/C#/JS
+* ⌨️ Skills: Python/PHP/C#/JS/Java
 
 * Will start learning C++ soon :)
 
