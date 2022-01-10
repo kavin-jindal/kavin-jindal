@@ -4,13 +4,15 @@
 
 > Since then I have worked on loads of projects and have learnt development in various fields. I am fluent in discord development, web development, making desktop applications with GUI and also developing on Linux 
 
-> I am currently learning Java and Javascript and trying out other fields in development.
+> I am currently learning PHP and C++.
 
 * 🤗 Pronouns: He/him
 * 😗 I also make discord bots for other servers and you can contact me on my discord ID if you want one for yourself.
 * 🤖 Fun fact: idk tell me what to write here
-* ⌨️ Learning PHP and JS
-* Will start learning C soon :)
+* ⌨️ Learning PHP
+* ⌨️ Skills: Python/PHP/C#/JS
+
+* Will start learning C++ soon :)
 
 
 # Contact Me:
