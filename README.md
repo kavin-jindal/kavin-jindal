@@ -1,4 +1,3 @@
-# Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > I am Kavin Jindal,  a 15 yr old self taught developer. I started programming by learning batch scripting 3 years ago and then in 2020 started learning Python from YouTube.
 
