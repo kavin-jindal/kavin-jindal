@@ -1,14 +1,5 @@
 
-> I am Kavin Jindal,  a 15 yr old self taught developer. I started programming by learning batch scripting 3 years ago and then in 2020 started learning Python from YouTube.
-
-> Since then I have worked on loads of projects and have learnt development in various fields. I am fluent in discord development, web development, making desktop applications with GUI and also developing on Linux.
-
-> I am currently working on [OpenUP](https://openup.rf.gd/?i=1) and [KlevrBio](https://klevrbio.rf.gd/?i=1)
-
-> I am currently learning PHP and C++.
-
 * 🤗 Pronouns: He/him
-* 😗 I also make discord bots for other servers and you can contact me on my discord ID if you want one for yourself.
 * 🤖 Fun fact: idk tell me what to write here
 * ⌨️ Learning C++
 * ⌨️ Skills: Python and PHP
