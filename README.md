@@ -30,9 +30,9 @@ I am Kavin Jindal, a hobbyist programmer based in India. I have been coding exte
   > Discord Development and web development
   
   # Active Projects
-  [**KlevrBio**](https:\\klevrbio.rf.gd): A platform that simplifies the task of creating bio pages for developers within a few clicks!
+  [**KlevrBio**](https://klevrbio.rf.gd/): A platform that simplifies the task of creating bio pages for developers within a few clicks!
   
-  [**GenCoder**](https:\\gencoder.rf.gd) (Under Development): The one stop solution to encode and decode text along with one-way encryption
+  [**GenCoder**](https://gencoder.rf.gd) (Under Development): The one stop solution to encode and decode text along with one-way encryption
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kavin-jindal&theme=dark)](https://git.io/streak-stats)
   
