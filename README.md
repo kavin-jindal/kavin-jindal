@@ -1,17 +1,13 @@
 <div id="header">
   <img src="https://github.com/kavin-jindal/kavin-jindal/assets/68228966/dc8f670a-c019-488e-acc7-d7ac8d3a8f4a" width="100"/>
 
-  # Oh hey!
+  # Hey there!
 
-I am Kavin Jindal, a hobbyist programmer based in India. I have been coding extensively for the past 3 years in numerous languages and frameworks and have built a lot of  projects across various platforms. I primarily use PHP for web projects and Python for discord development. 
+I am a 18 y/o undergraduate and cybersecurity enthusiast actively building my proficiency in Offensive Security, specifically Penetration Testing, Ethical Hacking and OSINT. I stay up-to-date with the latest news, tools, and techniques in the cybersecurity domain while refining my skills by solving CTFs and testing them on real-world targets.
 
- 
-
-# Tech Stack
+ # Tech Stack
 
 **Languages**
-  
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   
  **Cloud**
