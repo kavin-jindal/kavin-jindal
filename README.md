@@ -20,15 +20,7 @@ I am a 18 y/o undergraduate and cybersecurity enthusiast actively building my pr
   ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   
-  
-  # Fields of Interest:
-  
-  > Discord Development and web development
-  
-  # Active Projects
-  [**KlevrBio**](https://klevrbio.rf.gd/): A platform that simplifies the task of creating bio pages for developers within a few clicks!
-  
-  [**GenCoder**](https://gencoder.rf.gd) (Under Development): The one stop solution to encode and decode text along with one-way encryption
+
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kavin-jindal&theme=dark)](https://git.io/streak-stats)
   
