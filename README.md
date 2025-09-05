@@ -2,7 +2,7 @@
 
   # Hey there!
 
-Hi, I am Kavin Jindal, a cybersecurity enthusiast building his proficiency in ethical hacking and penetration testing. I am an active CTF player on TryHackMe and enjoy taking on challenges that refine and enhance my abilities. Here you will find my custom scripts and tools that I have built.
+Hi, I am Kavin Jindal, a cybersecurity enthusiast building  proficiency in ethical hacking and penetration testing. I am an active CTF player on TryHackMe and enjoy taking on challenges that refine and enhance my abilities. Here you will find my custom scripts and tools that I have built.
 
  # Tech Stack
 
