@@ -1,10 +1,14 @@
 <div id="header">
 
-  # Hey there!
+# About
+Hi I am Kavin, a cybersecurity and AI enthusiast from India. My areas of pursuit include
+- Penetration Testing
+- Exploit Development
+- Blue Teaming
+- Building AI Systems
+- Building stuff that actually matters
 
-Hi, I am Kavin Jindal, a cybersecurity enthusiast building  proficiency in ethical hacking and penetration testing. I am an active CTF player on TryHackMe and enjoy taking on challenges that refine and enhance my abilities. Here you will find my custom scripts and tools that I have built.
-
- # Tech Stack
+# Tech Stack
 
  <img src='https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white'>
  <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>
